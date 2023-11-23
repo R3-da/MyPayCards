@@ -50,8 +50,8 @@ HTTPStatus Exception: 429
 
 ## 📂 Project Structure
 
-/MyPayCards
-├── /PaymentAPI                 # Server
+/MyPayCards  
+├── /PaymentAPI                 # Server  
 └── /PaymentAPP                 # Client
 
 ---
