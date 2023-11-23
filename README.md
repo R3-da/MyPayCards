@@ -24,12 +24,10 @@
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
 - [📂 Project Structure](#project-structure)
-- [🧩 Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
 - [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
 
 ---
 
@@ -42,76 +40,32 @@ HTTPStatus Exception: 429
 
 ## ⚙️ Features
 
-HTTPStatus Exception: 429
+> - `ℹ️  Create Payment Cards`
+> - `ℹ️  Read Payment Cards`
+> - `ℹ️  Update Payment Cards`
+> - `ℹ️  Delete Payment Cards`
 
 ---
 
 
 ## 📂 Project Structure
 
-
-
-
----
-
-## 🧩 Modules
-
-<details closed><summary>Root</summary>
-
-| File                                                                                                                                                                                              | Summary                   |
-| ---                                                                                                                                                                                               | ---                       |
-| [PaymentAPI.sln](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI.sln)                                                                                                         | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\PaymentAPI.csproj)                                                                                        | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.user](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\PaymentAPI.csproj.user)                                                                              | HTTPStatus Exception: 429 |
-| [Program.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Program.cs)                                                                                                      | HTTPStatus Exception: 429 |
-| [WeatherForecast.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\WeatherForecast.cs)                                                                                      | HTTPStatus Exception: 429 |
-| [PaymentDetailController.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Controllers\PaymentDetailController.cs)                                                          | HTTPStatus Exception: 429 |
-| [WeatherForecastController.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Controllers\WeatherForecastController.cs)                                                      | HTTPStatus Exception: 429 |
-| [20230529095237_First Migration.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Migrations\20230529095237_First Migration.cs)                                             | HTTPStatus Exception: 429 |
-| [20230529095237_First Migration.Designer.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Migrations\20230529095237_First Migration.Designer.cs)                           | HTTPStatus Exception: 429 |
-| [PaymentDetailContextModelSnapshot.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Migrations\PaymentDetailContextModelSnapshot.cs)                                       | HTTPStatus Exception: 429 |
-| [PaymentDetail.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Models\PaymentDetail.cs)                                                                                   | HTTPStatus Exception: 429 |
-| [PaymentDetailContext.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\Models\PaymentDetailContext.cs)                                                                     | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.EntityFrameworkCore.targets](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\PaymentAPI.csproj.EntityFrameworkCore.targets)                            | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.nuget.g.props](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\PaymentAPI.csproj.nuget.g.props)                                                        | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.nuget.g.targets](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\PaymentAPI.csproj.nuget.g.targets)                                                    | HTTPStatus Exception: 429 |
-| [.NETCoreApp,Version=v7.0.AssemblyAttributes.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\.NETCoreApp,Version=v7.0.AssemblyAttributes.cs)             | HTTPStatus Exception: 429 |
-| [PaymentAPI.AssemblyInfo.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.AssemblyInfo.cs)                                                     | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.BuildWithSkipAnalyzers](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.csproj.BuildWithSkipAnalyzers)                         | HTTPStatus Exception: 429 |
-| [PaymentAPI.csproj.CopyComplete](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.csproj.CopyComplete)                                             | HTTPStatus Exception: 429 |
-| [PaymentAPI.GeneratedMSBuildEditorConfig.editorconfig](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.GeneratedMSBuildEditorConfig.editorconfig) | HTTPStatus Exception: 429 |
-| [PaymentAPI.GlobalUsings.g.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.GlobalUsings.g.cs)                                                 | HTTPStatus Exception: 429 |
-| [PaymentAPI.MvcApplicationPartsAssemblyInfo.cs](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\PaymentAPI.MvcApplicationPartsAssemblyInfo.cs)               | HTTPStatus Exception: 429 |
-| [msbuild.build.PaymentAPI.props](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.PaymentAPI.props)                             | HTTPStatus Exception: 429 |
-| [msbuild.buildMultiTargeting.PaymentAPI.props](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.PaymentAPI.props) | HTTPStatus Exception: 429 |
-| [msbuild.buildTransitive.PaymentAPI.props](https://github.com/R3-da/MyPayments/blob/main/PaymentAPI\PaymentAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.PaymentAPI.props)         | HTTPStatus Exception: 429 |
-| [index.html](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\index.html)                                                                                                             | HTTPStatus Exception: 429 |
-| [main.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\main.ts)                                                                                                                   | HTTPStatus Exception: 429 |
-| [styles.css](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\styles.css)                                                                                                             | HTTPStatus Exception: 429 |
-| [app.component.html](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\app.component.html)                                                                                         | HTTPStatus Exception: 429 |
-| [app.component.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\app.component.ts)                                                                                             | HTTPStatus Exception: 429 |
-| [app.module.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\app.module.ts)                                                                                                   | HTTPStatus Exception: 429 |
-| [payment-details.component.html](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\payment-details\payment-details.component.html)                                                 | HTTPStatus Exception: 429 |
-| [payment-details.component.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\payment-details\payment-details.component.ts)                                                     | HTTPStatus Exception: 429 |
-| [payment-detail-form.component.html](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\payment-details\payment-detail-form\payment-detail-form.component.html)                     | HTTPStatus Exception: 429 |
-| [payment-detail-form.component.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\payment-details\payment-detail-form\payment-detail-form.component.ts)                         | HTTPStatus Exception: 429 |
-| [payment-detail.model.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\shared\payment-detail.model.ts)                                                                        | HTTPStatus Exception: 429 |
-| [payment-detail.service.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\app\shared\payment-detail.service.ts)                                                                    | HTTPStatus Exception: 429 |
-| [environment.development.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\environments\environment.development.ts)                                                                | HTTPStatus Exception: 429 |
-| [environment.ts](https://github.com/R3-da/MyPayments/blob/main/PaymentApp\src\environments\environment.ts)                                                                                        | HTTPStatus Exception: 429 |
-
-</details>
+/MyPayCards
+├── /PaymentAPI                 # Server
+└── /PaymentAPP                 # Client
 
 ---
+
 
 ## 🚀 Getting Started
 
 ### ✔️ Prerequisites
 
 Before you begin, ensure that you have the following prerequisites installed:
-> - `ℹ️ Requirement 1`
-> - `ℹ️ Requirement 2`
-> - `ℹ️ ...`
+> - `ℹ️ Node v20.6.1`
+> - `ℹ️ .NET v8.0.100`
+> - `ℹ️ Angular v16.1.1`
+> - `ℹ️ Microsoft SQL Server v16.0.1`
 
 ### 📦 Installation
 
@@ -122,23 +76,57 @@ git clone https://github.com/R3-da/MyPayments
 
 2. Change to the project directory:
 ```sh
-cd MyPayments
+cd MyPayCards
 ```
 
-3. Install the dependencies:
+3. Install server dependencies:
 ```sh
-dotnet build
+cd PaymentAPI/PaymentAPI
+dotnet restore
+```
+
+4. Install dotnet-ef to run db migrations :
+```sh
+dotnet tool install --global dotnet-ef
+```
+
+5. Install client dependencies:
+```sh
+cd PaymentApp
+npm install
 ```
 
 ### 🎮 Using MyPayments
 
+1. Run db migrations:
 ```sh
+cd PaymentAPI/PaymentAPI
+dotnet ef database update
+```
+
+2. Start server:
+```sh
+cd PaymentAPI/PaymentAPI
 dotnet run
 ```
 
+3. Start client:
+```sh
+cd PaymentApp
+ng serve
+```
+Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
 ### 🧪 Running Tests
+
+1. Server:
 ```sh
 dotnet test
+```
+
+2. Client:
+```sh
+ng test
 ```
 
 ---
@@ -146,8 +134,8 @@ dotnet test
 
 ## 🗺 Roadmap
 
-> - [X] `ℹ️  Task 1: Implement X`
-> - [ ] `ℹ️  Task 2: Refactor Y`
+> - [X] `ℹ️  Set Up Backend`
+> - [X] `ℹ️  Set Up Frontend`
 > - [ ] `ℹ️ ...`
 
 
@@ -179,11 +167,5 @@ The project maintainers will review your changes and provide feedback or merge t
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for additional info.
-
----
-
-## 👏 Acknowledgments
-
-> - `ℹ️  List any resources, contributors, inspiration, etc.`
 
 ---
