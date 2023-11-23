@@ -11,9 +11,9 @@
 <img src="https://img.shields.io/badge/Angular-E34F26.svg?style&logo=Angular&logoColor=white" alt="Angular" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-3178C6.svg?style&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server" />
 </p>
-<img src="https://img.shields.io/github/languages/top/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub top language" />
-<img src="https://img.shields.io/github/languages/code-size/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub code size in bytes" />
-<img src="https://img.shields.io/github/commit-activity/m/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub commit activity" />
+<img src="https://img.shields.io/github/languages/top/R3-da/MyPayCards?style&color=5D6D7E" alt="GitHub top language" />
+<img src="https://img.shields.io/github/languages/code-size/R3-da/MyPayCards?style&color=5D6D7E" alt="GitHub code size in bytes" />
+<img src="https://img.shields.io/github/commit-activity/m/R3-da/MyPayCards?style&color=5D6D7E" alt="GitHub commit activity" />
 <img src="https://img.shields.io/github/license/R3-da/ShapeSwipe?style&color=5D6D7E" alt="GitHub license" />
 </div>
 
@@ -69,9 +69,9 @@ Before you begin, ensure that you have the following prerequisites installed:
 
 ### 📦 Installation
 
-1. Clone the MyPayments repository:
+1. Clone the MyPayCards repository:
 ```sh
-git clone https://github.com/R3-da/MyPayments
+git clone https://github.com/R3-da/MyPayCards
 ```
 
 2. Change to the project directory:
@@ -96,7 +96,7 @@ cd PaymentApp
 npm install
 ```
 
-### 🎮 Using MyPayments
+### 🎮 Using MyPayCards
 
 1. Run db migrations:
 ```sh
