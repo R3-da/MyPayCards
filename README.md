@@ -1,22 +1,20 @@
 <div align="center">
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="100" />
-<br>MyPayments
+<img src="./img/app_icon_wbg.webp" width="100" />
+<br>MyPayCards
 </h1>
-<h3>◦ HTTPStatus Exception: 429</h3>
+<h3>◦ MyPayCards: Demo Angular & Asp.Net Core Web API project handling  CRUD Payments Operations.</h3>
 <h3>◦ Developed with the software and tools listed below.</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style&logo=EditorConfig&logoColor=black" alt="EditorConfig" />
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style&logo=HTML5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style&logo=TypeScript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style&logo=Markdown&logoColor=white" alt="Markdown" />
-<img src="https://img.shields.io/badge/JSON-000000.svg?style&logo=JSON&logoColor=white" alt="JSON" />
+<img src="https://img.shields.io/badge/ASP.NET-0467DF.svg?style&logo=.net&logoColor=white" alt="ASP.NET" />
+<img src="https://img.shields.io/badge/Angular-E34F26.svg?style&logo=Angular&logoColor=white" alt="Angular" />
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-3178C6.svg?style&logo=microsoft-sql-server&logoColor=white" alt="Microsoft_SQL_Server" />
 </p>
 <img src="https://img.shields.io/github/languages/top/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub top language" />
 <img src="https://img.shields.io/github/languages/code-size/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub code size in bytes" />
 <img src="https://img.shields.io/github/commit-activity/m/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub commit activity" />
-<img src="https://img.shields.io/github/license/R3-da/MyPayments?style&color=5D6D7E" alt="GitHub license" />
+<img src="https://img.shields.io/github/license/R3-da/ShapeSwipe?style&color=5D6D7E" alt="GitHub license" />
 </div>
 
 ---
@@ -180,7 +178,7 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 📄 License
 
-This project is licensed under the `ℹ️  INSERT-LICENSE-TYPE` License. See the [LICENSE](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository) file for additional info.
+This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for additional info.
 
 ---
 
